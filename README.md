@@ -9,7 +9,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minanadyzarifnasef&label=Profile%20views&color=0e75b6&style=flat" alt="minanadyzarifnasef" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minanadyzarifnasef" alt="minanadyzarifnasef" /></a> </p>
 
 
 - 🔭 I’m currently working on [Pixi sales app](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)
