@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mina nady</h1>
+![flutter-Featured-Blog-Image2](https://github.com/minanadyzarifnasef/minanadyzarifnasef/assets/17978987/967e27c0-74cc-418a-9cf3-f7e33636ff7b)
+
+
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minanadyzarifnasef&label=Profile%20views&color=0e75b6&style=flat" alt="minanadyzarifnasef" /> </p>
