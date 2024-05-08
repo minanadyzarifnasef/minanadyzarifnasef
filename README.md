@@ -5,15 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-elqader&label=Profile%20views&color=0e75b6&style=flat" alt="abd-elqader" /> </p>
 
-- 🔭 I’m currently working on [blog](https://app.elnakoury.com/)
+- 🔭 I’m currently working on Pixi Sales App
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning advenced topics
 
-- 💬 Ask me about **php and js**
 
-- 📫 How to reach me **abdelqader.montaser@gmail.com**
+- 📫 How to reach me **mina.nady30.mn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o7vuGYRMqzSAYhBBzZUp6H8bJtoMUIXF/view?usp=sharing](https://drive.google.com/file/d/1o7vuGYRMqzSAYhBBzZUp6H8bJtoMUIXF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=sharing](https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
