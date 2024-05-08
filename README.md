@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi![flutter-Featured-Blog-Image2](https://github.com/minanadyzarifnasef/minanadyzarifnasef/assets/17978987/3dad838c-5505-4da4-83b5-2de65cebf897)
- 👋, I'm Mina Nady</h1>
+[flutter-Featured-Blog-Image2](https://github.com/minanadyzarifnasef/minanadyzarifnasef/assets/17978987/3dad838c-5505-4da4-83b5-2de65cebf897)
+<h1 align="center">Hi! 👋, I'm Mina Nady</h1>
 <h3 align="center">A Flutter  developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/>
 
