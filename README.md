@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minanadyzarifnasef" alt="minanadyzarifnasef" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-elqader&label=Profile%20views&color=0e75b6&style=flat" alt="abd-elqader" /> </p>
+
 - 🔭 I’m currently working on [Pixi sales app](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=drive_link](https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=drive_link)
