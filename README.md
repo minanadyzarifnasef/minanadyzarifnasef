@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Pixi sales app](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=drive_link](https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
 
 - 📫 How to reach me **mina.nady30.mn@gmail.com**
 
