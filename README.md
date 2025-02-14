@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mina.nady30.mn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=drive_link](https://drive.google.com/file/d/1M1WThOBxVNCk2wg9cjxBv0ahmnwc-1ji/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
