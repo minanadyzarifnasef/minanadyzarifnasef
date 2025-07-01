@@ -13,17 +13,18 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[تطبيق المعاصر التفاعلي](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)**  
-- 🛠 I have **4+ years of experience** building cross-platform apps using **Flutter & Dart**
-- 📱 I’ve published apps on **Google Play** and the **App Store**
-- 💼 All my projects are available in my [Portfolio](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
-- 📫 You can reach me at: **mina.nady30.mn@gmail.com**
+- 🔭 Currently working on **[تطبيق المعاصر التفاعلي](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)**  
+- 💻 4+ years of experience building cross-platform apps with **Flutter & Dart**
+- 📱 Published multiple apps on **Google Play** and the **App Store**
+- 🧠 Strong background in state management, API integration, animations, and clean architecture
+- 💼 View my full project portfolio [here](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
+- 📫 Reach me at **mina.nady30.mn@gmail.com**
 
 ---
 
 ### 📄 Resume
 
-- View my resume [here](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
+- 📄 [View my resume](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
 
 ---
 
@@ -31,7 +32,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mina-nady-5b4633134/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mina Nady | LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mina Nady" height="30" width="40" />
   </a>
 </p>
 
@@ -40,30 +41,14 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
 </p>
 
 ---
@@ -78,8 +63,13 @@
 
 ### 📌 Pinned Projects
 
-You can pin your top repositories here to highlight your best work.
+- [📱 Tamweely Task](https://github.com/minanadyzarifnasef/tm_task)  
+  Flutter mobile app created as a technical task for Tamweely. Features responsive layout and API integration.
+
+- [🧾 Promina Task](https://github.com/minanadyzarifnasef/proMina)  
+  Flutter project developed for Promina Marketing Agency as part of a code challenge. Demonstrates clean architecture and modular structure.
+
+> 🚫 **Note:** Most of my professional work is in **private repositories** due to company policies and copyright restrictions. These include live apps published on the App Store and Google Play, covering internal tools, e-learning platforms, and client portals.
 
 ---
 
-Let me know if you want to auto-generate badges, integrate GitHub trophies, or show most used languages.
