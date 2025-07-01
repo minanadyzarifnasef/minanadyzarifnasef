@@ -17,14 +17,14 @@
 - 💻 4+ years of experience building cross-platform apps with **Flutter & Dart**
 - 📱 Published multiple apps on **Google Play** and the **App Store**
 - 🧠 Strong background in state management, API integration, animations, and clean architecture
-- 💼 View my full project portfolio [here](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
+- 💼 View my full project portfolio [here](https://docs.google.com/document/d/1Z34Kg4CU5IZGRxDVWcXtWeVbf4u5KUQSOE196wxicnY/edit?usp=share_link)
 - 📫 Reach me at **mina.nady30.mn@gmail.com**
 
 ---
 
 ### 📄 Resume
 
-- 📄 [View my resume](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
+- 📄 [View my resume](https://docs.google.com/document/d/1Z34Kg4CU5IZGRxDVWcXtWeVbf4u5KUQSOE196wxicnY/edit?usp=share_link)
 
 ---
 
