@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on [Pixi sales app](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)
+- 🔭 I’m currently working on [تطبيق المعاصر التفاعلي](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing](https://drive.google.com/file/d/1X8F76eaE2CEBDO_iSTDjyZnh8SoUZjhK/view?usp=sharing)
 
