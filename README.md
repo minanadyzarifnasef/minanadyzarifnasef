@@ -70,7 +70,7 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Public Projects (Source Available
 
 - [📱 Tamweely Task](https://github.com/minanadyzarifnasef/tm_task)  
   Flutter mobile app created as a technical task for Tamweely. Features responsive layout and API integration.
