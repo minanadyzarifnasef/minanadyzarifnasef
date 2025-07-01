@@ -73,3 +73,22 @@
 
 ---
 
+### 📱 Published Projects (Live)
+
+Here are some of the live apps I've built using Flutter:
+
+- [Albaraka App (Grocery & Delivery)](https://play.google.com/store/apps/details?id=com.blueburry.albarka&hl=en&gl=US)  
+- [TWT - Tools World (Android)](https://play.google.com/store/apps/details?id=com.tools.twt&pcampaignid=web_share)  
+  [TWT - Tools World (iOS)](https://apps.apple.com/eg/app/twt-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%AF%D8%AF/id6475261979)  
+- [Tuwayq E-commerce App (Android)](https://play.google.com/store/apps/details?id=com.alareebict.tuwayq&pcampaignid=web_share)  
+  [Tuwayq E-commerce App (iOS)](https://apps.apple.com/eg/app/tuwayq-com/id6468569973)  
+- [El Order – User App](https://play.google.com/store/apps/details?id=com.pixi.userelorder&hl=en&gl=US)  
+  [El Order – Store App](https://play.google.com/store/apps/details?id=com.pixi.elorderstore&hl=en&gl=US)  
+  [El Order – Delivery App](https://play.google.com/store/apps/details?id=com.pixi.elorderdelivery&hl=en&gl=U)  
+- [UFS – Shipping & Delivery App](https://play.google.com/store/apps/details?id=com.pixi.ufs&hl=en&gl=US)  
+- [Nabadat – Doctor App](https://play.google.com/store/apps/details?id=com.doctor.nabadat&pcampaignid=web_share)  
+  [Nabadat – Patient App](https://play.google.com/store/apps/details?id=com.patient.nabadat&pcampaignid=web_share)  
+- [Winner Chat – Voice Chat App](https://play.google.com/store/apps/details?id=com.pixi.winnerchat&pcampaignid=web_share)  
+- [PIXI – Sales Management App](https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share)
+
+---
