@@ -1,7 +1,16 @@
 ![Build-Your-First-App-with-Flutter-and-Dart](https://github.com/minanadyzarifnasef/minanadyzarifnasef/assets/17978987/9e3c6a1a-bef3-4cab-8619-e5d0c92ead5c)
 
-<h1 align="center">Hi 👋, I'm Mina Nady</h1>
-<h3 align="center">A passionate Flutter developer from Egypt 🇪🇬</h3>
+<table>
+  <tr>
+    <td width="150">
+      <img src="https://avatars.githubusercontent.com/u/17978987?v=4" width="150" style="border-radius: 50%;" alt="Mina Nady" />
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Mina Nady</h1>
+      <h3>A passionate Flutter developer from Egypt 🇪🇬</h3>
+    </td>
+  </tr>
+</table>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
 
