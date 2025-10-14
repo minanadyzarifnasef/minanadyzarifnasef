@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[تطبيق المعاصر التفاعلي]([https://play.google.com/store/apps/details?id=com.pixi.sales&pcampaignid=web_share](https://play.google.com/store/apps/details?id=eg.com.gps.app&pcampaignid=web_share))**  
+- 🔭 Currently working on [تطبيق المعاصر التفاعلي](https://play.google.com/store/apps/details?id=eg.com.gps.app&pcampaignid=web_share)
 - 💻 4+ years of experience building cross-platform apps with **Flutter & Dart**
 - 📱 Published multiple apps on **Google Play** and the **App Store**
 - 🧠 Strong background in state management, API integration, animations, and clean architecture
