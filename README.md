@@ -78,7 +78,7 @@
 
 Here are some of the live apps I've built using Flutter:
 - [El Moasser and Al Emte7an (Educational System)](https://play.google.com/store/apps/details?id=eg.com.gps.app&pcampaignid=web_share) — **55K+ users**
-- [Albaraka App (Grocery & Delivery)](https://play.google.com/store/apps/details?id=com.blueburry.albarka&hl=en&gl=US)  
+- [Albaraka App (Grocery & Delivery)](https://play.google.com/store/apps/details?id=com.blueburry.albarka&hl=en&gl=US)  **currently serving over 10,000 users**
 - [TWT - Tools World (Android)](https://play.google.com/store/apps/details?id=com.tools.twt&pcampaignid=web_share)  
   [TWT - Tools World (iOS)](https://apps.apple.com/eg/app/twt-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%AF%D8%AF/id6475261979)  
 - [Tuwayq E-commerce App (Android)](https://play.google.com/store/apps/details?id=com.alareebict.tuwayq&pcampaignid=web_share)  
