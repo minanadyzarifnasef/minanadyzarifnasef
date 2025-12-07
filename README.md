@@ -12,7 +12,9 @@
   </tr>
 </table>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
+<div style="float:right; margin-left:20px;">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/>
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=minanadyzarifnasef&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
