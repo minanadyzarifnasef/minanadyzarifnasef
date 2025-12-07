@@ -62,14 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minanadyzarifnasef&show_icons=true&theme=tokyonight" alt="Mina's GitHub stats" />
-</p>
-
----
-
 ### 📌 Public Projects (Source Available)
 
 - [📱 Tamweely Task](https://github.com/minanadyzarifnasef/tm_task)  
