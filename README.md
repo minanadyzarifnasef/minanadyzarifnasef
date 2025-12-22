@@ -64,18 +64,18 @@
 
 ### 📌 Public Projects (Source Available)
 
-- [📱 **Tamweely Task**](https://github.com/minanadyzarifnasef/tm_task)  
+-[📱**Tamweely Task**](https://github.com/minanadyzarifnasef/tm_task)  
   Flutter mobile app created as a technical task for Tamweely. Features responsive layout and API integration.
   
--[🎬 **The Movie DB Task** ](https://github.com/minanadyzarifnasef/theMovieDBTas)  
+-[🎬**The Movie DB Task** ](https://github.com/minanadyzarifnasef/theMovieDBTas)  
   Flutter technical task developed for a **Senior Flutter Developer** position at **Axis Pay Wallet**.  
   Implements clean architecture, API integration with TMDB, and scalable state management.
 
--[🏢 **Al Daboos Group Task** ](https://github.com/minanadyzarifnasef/dabboos_task)  
+-[🏢**Al Daboos Group Task** ](https://github.com/minanadyzarifnasef/dabboos_task)  
   Flutter technical task created for a **Senior Flutter Developer** position at **Al Daboos Group**.  
   Focuses on clean code structure, modular design, and best practices.
    
-- [🧾 **Promina Task**](https://github.com/minanadyzarifnasef/proMina)  
+-[🧾**Promina Task**](https://github.com/minanadyzarifnasef/proMina)  
   Flutter project developed for Promina Marketing Agency as part of a code challenge. Demonstrates clean architecture and modular structure.
 
 > 🚫 **Note:** Most of my professional work is in **private repositories** due to company policies and copyright restrictions. These include live apps published on the App Store and Google Play, covering internal tools, e-learning platforms, and client portals.
