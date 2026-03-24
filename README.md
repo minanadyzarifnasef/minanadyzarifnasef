@@ -33,7 +33,7 @@
 
 ### 📄 Resume
 
-- 📄 [View my resume](https://drive.google.com/file/d/1r4hJGn0etjwdktaBEVYVmWOrd6p1q4Xi/view?usp=sharing)
+- 📄 [View my resume](https://drive.google.com/file/d/1DcaLdAVcpoFpJ6YK3C8mkbvsJRcP_-BX/view?usp=sharing)
 
 ---
 
