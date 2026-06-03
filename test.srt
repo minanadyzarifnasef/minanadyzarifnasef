@@ -51,7 +51,6 @@ On my way.
 
 13
 00:01:33,743 --> 00:01:35,579
-
 * Good morning.
 * Good morning, madam.
 
@@ -67,7 +66,6 @@ with a family altercation.
 
 16
 00:01:41,376 --> 00:01:42,794
-
 * No, madam.
 * Hello, Mommy.
 
@@ -120,7 +118,6 @@ Early afternoon, sir.
 
 28
 00:02:13,158 --> 00:02:17,287
-
 * Early afternoon? Why not this morning?
 * Because you told her to come after lunch.
 
@@ -142,9 +139,3 @@ until after lunch.
 00:02:24,002 --> 00:02:26,254
 I've changed my mind,
 I need to redraft the speech.
-
-33
-00:02:26,338 --> 00:02:27,923
-
-* Get her here now!
-* Yes, sir.
